@@ -18,9 +18,3 @@ It allows you to:
 
 ---
 
-## 🛠️ Installation & Usage
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/YOUR_USERNAME/student-records-system.git
-cd student-records-system
